@@ -1,3 +1,4 @@
+# **ATIVIDADE DA DISCIPLINA DE IoT DO CURSO DE TSI**
 
 # Proposta de um sistema de controle de iluminação residencial controlada via aplicação android em paralelo com interruptor
 Este proposta tem o intuito de implementar um sistema com arduino onde será possível o controle da iluminação da residencia 
