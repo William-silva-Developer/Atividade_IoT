@@ -1,1 +1,2 @@
-# Atividade_IoT - Atividade do curso superior de Sistemas para Internet
+
+# Proposta de um sistema de controle de iluminação residencial controlada via aplicação
