@@ -1,5 +1,5 @@
 
-# Proposta de um sistema de controle de iluminação residencial controlada via aplicação em paralelo com interruptor
+# Proposta de um sistema de controle de iluminação residencial controlada via aplicação android em paralelo com interruptor
 Este proposta tem o intuito de implementar um sistema com arduino onde será possível o controle da iluminação da residencia 
 por uma aplicativo.
 O proposito é implementar um sistema que usará uma aplicativo android que se comunicará via bluetooth ao arduino e assim te-
