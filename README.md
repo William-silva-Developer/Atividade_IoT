@@ -1,16 +1,16 @@
-# **ATIVIDADE DA DISCIPLINA DE IoT DO CURSO DE TSI**
+# ATIVIDADE DA DISCIPLINA DE IoT DO CURSO DE TSI
 
-# Proposta de um sistema de controle de iluminação residencial controlada via aplicação android em paralelo com interruptor
+# `Proposta de um sistema de controle de iluminação residencial controlada via aplicação android em paralelo com interruptor`
 Este proposta tem o intuito de implementar um sistema com arduino onde será possível o controle da iluminação da residencia 
 por uma aplicativo.
 O proposito é implementar um sistema que usará uma aplicativo android que se comunicará via bluetooth ao arduino e assim te
 mos a possibilidade de controlamos a iluminação via app e também podemos controlar pelo interruptor, pos o controle será im
 plementado em paralelo com o interruptor.
 
-## Autor
+## `Autor`
 - William Silva - *Autor*
 
-## Materiais
+## `Materiais`
 - Arduino uno;
 <img align="center" alt="Arduino uno" height="250" width="250" src="https://www.filipeflop.com/wp-content/uploads/2017/07/1AC01-9-1-min.jpeg" />
 - Modulo relé hc06 (Bluetooth);
