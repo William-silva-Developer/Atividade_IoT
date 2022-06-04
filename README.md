@@ -25,3 +25,6 @@ plementado em paralelo com o interruptor.
 <img align="center" alt="Arduino uno" height="250" width="250" src="https://images.tcdn.com.br/img/img_prod/760588/lampada_led_12w_bulbo_branca_demi_139_1_20200311144249.jpg" />
 - Protoboard;
 <img align="center" alt="Arduino uno" height="250" width="250" src="https://www.filipeflop.com/wp-content/uploads/2017/07/2PB02-3.jpg" />
+
+## `Circuito`
+<img align="center" alt="Arduino uno" height="250" width="250" src="https://www.usinainfo.com.br/blog/wp-content/uploads/2021/09/esquema-de-ligacao-controle-lempada-via-arduino.fw_.png" />
